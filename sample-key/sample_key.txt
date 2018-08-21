@@ -1,0 +1,2 @@
+otpauth://totp/ACME%20CORP:ACME%3ADonald%20Duck?secret=EICOX5WPWSM2D3CC&issuer=ACME+CORP
+2204ebf6cfb499a1ec42
